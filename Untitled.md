@@ -1,7 +1,5 @@
 Steam Beginner's Guide: Your Gateway to PC Gaming
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/240px-Steam_icon_logo.svg.png
-
 Table of Contents
 
 1. What is Steam?
